@@ -1,14 +1,15 @@
 header{
+    display: fixed;
     display: flex;
     align-items: stretch;
     background-color: lightgray;
+    
         
 }
 
 .links{
-        width: 50%;
+    width: 50%;
         
-
 }
 
 .logo{
@@ -28,7 +29,7 @@ ul{
     list-style: none;
     text-decoration: none;
         
-   }
+}
    
 h1{
     text-align: center;
